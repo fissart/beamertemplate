@@ -738,8 +738,11 @@ Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \CatchFBT@tok=\toks48
 )
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeSzeged.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeBerlin.sty
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthememiniframes.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerectangles.sty)
 ) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
 
@@ -1282,98 +1285,51 @@ File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 26.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [2
+ (../www.tex) (../www.tex) [2
 
  <../www.jpg>]
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-37.
-
-(/usr/share/texmf/tex/latex/lm/ot1lmss.fd
-File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
-7.
-
-(/usr/share/texmf/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-37.
-
-(/usr/share/texmf/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-37.
-
-(/usr/share/texmf/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 37.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 37.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 37.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 37.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 37.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 37.
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 37.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
  (../www.tex)
-[3
+(../www.tex) [3
 
 ]
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 37.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [4
+ (../www.tex) (../www.tex) [4
 
 ]
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 37.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [5
+ (../www.tex) (../www.tex)
+[5
 
 ]
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 48.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [6
+ (../www.tex) (../www.tex) [6
 
 ]
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 48.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [7
+ (../www.tex) (../www.tex) [7
 
 ]
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 53.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-
+ (../www.tex)
 (../www.tex) [8
 
 ]
@@ -1381,58 +1337,106 @@ File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 57.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [9
+ (../www.tex) (../www.tex) [9
 
 ]
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 61.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [10
+ (../www.tex) (../www.tex)
+[10
 
 ]
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 66.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [11
+ (../www.tex) (../www.tex) [11
 
 ]
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 75.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-
-(../www.tex) [12
-
-]
-File: ../www.jpg Graphic file (type jpg)
-<use ../www.jpg>
-Package pdftex.def Info: ../www.jpg  used on input line 75.
-(pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [13
+ (../www.tex) (../www.tex) [12
 
 ]
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 75.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [14
+ (../www.tex) (../www.tex) [13
 
 ]
+File: ../www.jpg Graphic file (type jpg)
+<use ../www.jpg>
+Package pdftex.def Info: ../www.jpg  used on input line 75.
+(pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
+ (../www.tex) (../www.tex) [14
+
+]
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
+88.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmss.fd
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
+8.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+88.
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+88.
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 88.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 88.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 88.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 88.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 88.
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 88.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [15
+ (../www.tex)
+(../www.tex) [15
 
 ]
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 103.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-
-(../www.tex) [16
+ (../www.tex) (../www.tex) [16
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1447,116 +1451,112 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 131.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 131.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 131.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 131.
 
-Overfull \vbox (7.21176pt too high) detected at line 131
+Overfull \vbox (3.30037pt too high) detected at line 131
  []
 
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 131.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-(../www.tex) [17
+(../www.tex) (../www.tex) [17
 
 ]
-Overfull \vbox (7.21176pt too high) detected at line 131
+Overfull \vbox (3.30037pt too high) detected at line 131
  []
 
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 131.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-(../www.tex) [18
+(../www.tex) (../www.tex) [18
 
 ]
-Overfull \vbox (7.21176pt too high) detected at line 131
+Overfull \vbox (3.30037pt too high) detected at line 131
  []
 
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 131.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-(../www.tex) [19
+(../www.tex) (../www.tex) [19
 
 ]
-Overfull \vbox (7.21176pt too high) detected at line 131
+Overfull \vbox (3.30037pt too high) detected at line 131
  []
 
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 131.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-(../www.tex) [20
+(../www.tex) (../www.tex) [20
 
 ]
-Overfull \vbox (7.21176pt too high) detected at line 131
+Overfull \vbox (3.30037pt too high) detected at line 131
  []
 
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 131.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-(../www.tex) [21
+(../www.tex) (../www.tex) [21
 
 ]
-Overfull \vbox (7.21176pt too high) detected at line 131
+Overfull \vbox (3.30037pt too high) detected at line 131
  []
 
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 131.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-(../www.tex) [22
+(../www.tex) (../www.tex) [22
 
 ]
-Overfull \vbox (7.21176pt too high) detected at line 131
+Overfull \vbox (3.30037pt too high) detected at line 131
  []
 
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 131.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-(../www.tex) [23
+(../www.tex) (../www.tex) [23
 
 ]
-Overfull \vbox (7.21176pt too high) detected at line 131
+Overfull \vbox (3.30037pt too high) detected at line 131
  []
 
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 131.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-(../www.tex) [24
+(../www.tex) (../www.tex) [24
 
 ]
-Overfull \vbox (7.21176pt too high) detected at line 131
+Overfull \vbox (3.30037pt too high) detected at line 131
  []
 
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 131.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-(../www.tex) [25
+(../www.tex) (../www.tex) [25
 
 ]
-Overfull \vbox (7.21176pt too high) detected at line 131
+Overfull \vbox (3.30037pt too high) detected at line 131
  []
 
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 131.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-(../www.tex) [26
+(../www.tex) (../www.tex) [26
 
 ]
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 139.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [27
+ (../www.tex) (../www.tex) [27
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{key}) has be
 en already used, duplicate ignored
@@ -1564,14 +1564,14 @@ en already used, duplicate ignored
                    \relax 
 l.172 \end{frame}
                  
-Overfull \vbox (80.32156pt too high) detected at line 172
+Overfull \vbox (76.41017pt too high) detected at line 172
  []
 
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 172.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-(../www.tex) [28
+(../www.tex) (../www.tex) [28
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{key}) has be
 en already used, duplicate ignored
@@ -1579,35 +1579,36 @@ en already used, duplicate ignored
                    \relax 
 l.206 \end{frame}
                  
-Overfull \vbox (80.32156pt too high) detected at line 206
+Overfull \vbox (76.41017pt too high) detected at line 206
  []
 
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 206.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-(../www.tex) [29
+(../www.tex) (../www.tex) [29
 
 ]
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 213.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [30
+ (../www.tex) (../www.tex) [30
 
 ]
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 218.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [31
+ (../www.tex)
+(../www.tex) [31
 
 ]
 File: ../www.jpg Graphic file (type jpg)
 <use ../www.jpg>
 Package pdftex.def Info: ../www.jpg  used on input line 223.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
- (../www.tex) [32
+ (../www.tex) (../www.tex) [32
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write7
@@ -1634,11 +1635,11 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31534 strings out of 480185
- 615600 string characters out of 5894214
- 1342855 words of memory out of 5000000
- 48755 multiletter control sequences out of 15000+600000
- 544786 words of font info for 84 fonts, out of 8000000 for 9000
+ 31712 strings out of 480185
+ 621270 string characters out of 5894214
+ 1344689 words of memory out of 5000000
+ 48866 multiletter control sequences out of 15000+600000
+ 535397 words of font info for 77 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  99i,19n,104p,741b,2802s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/en
@@ -1648,12 +1649,11 @@ c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share
 f/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss
 12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/font
 s/type1/public/lm/lmss9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb
-></usr/share/texmf/fonts/type1/public/lm/lmsso8.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on document.pdf (32 pages, 225705 bytes).
+></usr/share/texmf/fonts/type1/public/lm/lmsso8.pfb>
+Output written on document.pdf (32 pages, 216988 bytes).
 PDF statistics:
- 1070 PDF objects out of 1200 (max. 8388607)
- 976 compressed objects within 10 object streams
+ 1065 PDF objects out of 1200 (max. 8388607)
+ 973 compressed objects within 10 object streams
  86 named destinations out of 1000 (max. 500000)
  112 words of extra memory for PDF output out of 10000 (max. 10000000)
 
