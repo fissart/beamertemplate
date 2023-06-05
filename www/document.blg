@@ -1,0 +1,14 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'document.blg'
+[127] biber:340> INFO - === Sun Jun  4, 2023, 17:52:51
+[146] Biber.pm:418> INFO - Reading 'document.bcf'
+[261] Biber.pm:972> INFO - Found 3 citekeys in bib section 0
+[279] Biber.pm:4383> INFO - Processing section 0
+[292] Biber.pm:4574> INFO - Looking for bibtex file 'www.bib' for section 0
+[293] bibtex.pm:1713> INFO - LaTeX decoding ...
+[298] bibtex.pm:1518> INFO - Found BibTeX data source 'www.bib'
+[369] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[369] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[369] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[379] bbl.pm:654> INFO - Writing 'document.bbl' with encoding 'UTF-8'
+[381] bbl.pm:757> INFO - Output to document.bbl

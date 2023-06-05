@@ -1,0 +1,17 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{www}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{wwwwww}{3}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{1}{wwwwww}{8}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{2}{wwwwww}{9}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{3}{wwwwww}{10}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{4}{wwwwww}{11}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{5}{wwwwww}{12}{0}{1}
+\beamer@subsectionintoc {1}{2}{w-w}{15}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{1}{wwwwww2}{16}{0}{1}
+\beamer@subsubsectionintoc {1}{2}{2}{wwwwwwwwwwwwwwwwwww}{17}{0}{1}
+\beamer@sectionintoc {2}{wwwwwwwwwwwwwwwwwwwwww}{27}{0}{2}
+\beamer@subsectionintoc {2}{1}{www}{27}{0}{2}
+\beamer@subsubsectionintoc {2}{1}{1}{wwwwwwwwwwwwwwwwwww}{28}{0}{2}
+\beamer@subsubsectionintoc {2}{1}{2}{wwwwwwwwwwwwwwwwwww}{29}{0}{2}
+\beamer@sectionintoc {3}{wwwwwwwwwwwwwwwwwwwwww}{30}{0}{3}
+\beamer@sectionintoc {4}{wwwwwwwwwwwwwwwwwwwwww}{31}{0}{4}
